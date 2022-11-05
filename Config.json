@@ -1,0 +1,7 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 9999,
+
+  "data-db-connection": "mongodb+srv://Juanpa23:fQA5PwKRWNoeC61X@cluster0.5g0kpzt.mongodb.net/db_Seguridad?retryWrites=true&w=majority",
+  "name-db": "db_Resultados"
+}
